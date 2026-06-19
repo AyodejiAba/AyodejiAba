@@ -9,3 +9,8 @@ I’m a data scientist passionate about turning raw data into actionable insight
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/-ggplot2-CC0000?style=flat&logo=ggplot2&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/-Interactive_Dashboards-blueviolet?style=flat&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=flat&logo=googleanalytics&logoColor=white)
