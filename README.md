@@ -24,6 +24,45 @@ analytics projects focused on business insights. Passionate about transforming d
 
 
 ## Projects 
+## 🚀 Featured Projects
 
+### 📊 Customer Retention
+[![GitHub Repository](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/AyodejiAba/CustomerRetention)
 
+**Description:**  
+Analyzed customer behavior to identify factors influencing churn and built predictive models to support retention strategies.
+
+**Tools & Technologies:**
+- Python 
+- Power BI
+  
+
+---
+
+### 📈 Sales Forecasting Analysis
+[![GitHub Repository](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/AyodejiAba/Sales_Forecasting)
+
+**Description:**  
+Developed forecasting models to predict future sales trends and support data-driven business decisions.
+
+**Tools & Technologies:**
+- Python
+- Prophet
+- ARIMA
+- Power BI
+- Data Visualization
+
+---
+
+### 🌍 Market Expansion Analysis
+[![GitHub Repository](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/AyodejiAba/Market_Expansion)
+
+**Description:**  
+Performed market analysis to evaluate potential expansion opportunities using business and customer data.
+
+**Tools & Technologies:**
+- SQL
+- Excel
+- Looker Studio
+- Data Analytics
 
