@@ -66,16 +66,13 @@ Performed market analysis to evaluate potential expansion opportunities using bu
 - Looker Studio
 - Data Analytics
 
-
-# Hi, I'm Ayodeji 👋
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AyodejiAbajingin&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=AyodejiAba&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=AyodejiAbajingin&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=AyodejiAba&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyodejiAbajingin&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyodejiAba&layout=compact&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyodejiAbajingin&theme=tokyo-night)](https://github.com/AyodejiAbajingin)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyodejiAba&theme=tokyo-night)](https://github.com/AyodejiAbajingin)
 
