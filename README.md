@@ -1,6 +1,7 @@
 ## **👋 Hi, I’m Ayodeji Abajingin**
 
-I’m a data scientist passionate about turning raw data into actionable insights.Currently learning machine learning, exploring real-world datasets, and building impactful dashboards.Looking forward to collaborating on open-source projects and sharing what I learn along the way!
+Junior Data Analyst with a research science background transitioning into business analytics, leveraging extensive experience in collecting, validating, and interpreting complex datasets to support evidence-based decision-making. Skilled in SQL, Python, Power BI, Tableau, and data visualization, with hands-on
+analytics projects focused on business insights. Passionate about transforming data into actionable recommendations that improve operational and business performance.
 
 ## **🏅 Stack**
 
