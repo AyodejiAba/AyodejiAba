@@ -67,15 +67,15 @@ Performed market analysis to evaluate potential expansion opportunities using bu
 - Data Analytics
 
 
-# These charts are created using the code:
- 
-![Your GitHub stats](&lt;https://github-readme-stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical>)
- 
-## <img draggable="false" role="img" class="emoji" alt="🔥" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f525.svg"> Streak Stats
- 
-![Streak](&lt;https://github-readme-streak-stats.herokuapp.com/?user=yourusername&amp;theme=radical>)
- 
-## <img draggable="false" role="img" class="emoji" alt="🧪" src="https://s.w.org/images/core/emoji/17.0.2/svg/1f9ea.svg"> Languages
- 
-![Top Langs](&lt;https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&amp;layout=compact>)
+# Hi, I'm Ayodeji 👋
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AyodejiAbajingin&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=AyodejiAbajingin&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyodejiAbajingin&layout=compact&theme=tokyonight)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyodejiAbajingin&theme=tokyo-night)](https://github.com/AyodejiAbajingin)
 
