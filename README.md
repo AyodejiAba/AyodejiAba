@@ -1,4 +1,4 @@
-## **👋 Hi, I’m Ayodeji Abajingin**
+## **👋 Hi **
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Ayodeji+Abajingin;Junior+Data+Analyst;Power+BI+%7C+Python+%7C+SQL;Data+Visualization+Enthusiast;Machine+Learning+Explorer;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
